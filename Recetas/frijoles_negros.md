@@ -50,7 +50,8 @@
 17. Cerrar la olla y ponerla a tomar presión
 18. Cuanto alcance la presión ponerle el pitillo
 19. Cuando alcance la presión con el pitillo puesto, bajar la candela y darle 25 minutos :alarm_clock:
-20. Una vez que pasen los 25 minutos lo frijoles deben estar echos.
+20. Una vez que pasen los 25 minutos, echar un poco de  vinagre a los frijoles
+
 
 
 **Fin**
