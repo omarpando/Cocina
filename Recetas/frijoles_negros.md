@@ -1,5 +1,4 @@
-# Frijoles negros  #
------------------------------
+#Frijoles negros#
 
 **Ingredientes**
 
@@ -23,7 +22,7 @@
 3. Echar la mitad del pimiento verde en la olla
 4. Con la candela elevada y la olla cerrada, esperar a que tome presión
 5. Cuando coja presión se le pone el pitillo en la olla
-6. Vuelve a tomar presión, bajar la candela y darle 45 minutos
+6. Vuelve a tomar presión, bajar la candela y darle 45 minutos :alarm_clock:
 7. Picar los pimientos, la cebolla, el ajo, el bacon y mantenerlos separados
 
 
@@ -50,7 +49,7 @@
 17. Elevar la candela
 17. Cerrar la olla y ponerla a tomar presión
 18. Cuanto alcance la presión ponerle el pitillo
-19. Cuando alcance la presión con el pitillo puesto, bajar la candela y darle 25 minutos
+19. Cuando alcance la presión con el pitillo puesto, bajar la candela y darle 25 minutos :alarm_clock:
 20. Una vez que pasen los 25 minutos lo frijoles deben estar echos.
 
 
